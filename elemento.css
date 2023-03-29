@@ -1,0 +1,18 @@
+div{
+    background-color: cornflowerblue;
+    width: 400px;
+    height: 400px;
+    display: block;
+}
+p{
+    background-color: coral;
+    width: 200px;
+    /* border: 2px;
+    border-color: black;
+    border-style: solid; */
+    border: 2px solid black;
+    /* padding-top: 10px; */
+    /* padding-bottom: 50px; */
+    /* padding-left: 20px; */
+    margin-left: 20px;
+}

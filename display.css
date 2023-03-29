@@ -1,0 +1,16 @@
+.container{
+    background-color: cornflowerblue;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+.block{
+    display: block;
+}
+.inline{
+    /* font-size: 50px; */
+    display: inline;
+}
+.inline-block{
+    display: inline-block;
+}
